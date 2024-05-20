@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "porto evolution bluetooth",
+            "image1": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/s/h/shop14_product4.jpeg",
+            "image2": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/s/h/shop14_product3.jpeg",
+            "price": 120.00,
+            "disc": ""
+        },
+        {
+            "id": 2,
+            "title": "headphone black",
+            "image1": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/s/h/shop14_product6_3.jpeg",
+            "image2": "",
+            "price": 259.00,
+            "disc": 299.00
+        },
+        {
+            "id": 3,
+            "title": "headphone black",
+            "image1": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/s/h/shop14_product8_3_1.jpeg",
+            "image2": "",
+            "price": 299.00,
+            "disc": ""
+        },
+        {
+            "id": 4,
+            "title": "25 aoustic noise",
+            "image1": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/s/h/shop14_product2.jpeg",
+            "image2": "",
+            "price": 299.00,
+            "disc": ""
+        }
+    ]
+}
