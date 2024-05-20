@@ -118,7 +118,7 @@ function displayProducts(take){
                 <div class="star"><i class="fa-solid fa-star"></i></div>
             </div>
             <div class="discount">
-                <span class="disc">$${item.disc}</span>
+                <span class="disc">${item.disc}</span>
                 <span class="realPrice">$${item.price}</span>
             </div>
             <div class="card-last">
